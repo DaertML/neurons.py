@@ -1,5 +1,6 @@
 # neurons.py
 The same goal as neurons.c but in python; cuz "damn C got hands"
+![alt text](image\ 5.webp "Fast Neurons in C")
 
 # Motivation
 Use Python as a proxy to achieve the goals of neurons.c (https://github.com/DaertML/neurons.c).
